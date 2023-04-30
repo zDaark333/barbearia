@@ -1,0 +1,40 @@
+header{
+    background-color: blue;
+    padding: 20px 0;
+}    
+
+#logo{
+     width: 20%;
+}
+
+.caixa{
+    width: 940px;
+    position: relative;
+    margin: 0;
+}
+
+nav {
+    position: absolute;
+    top: 100%
+    right: 0%;
+    }
+
+    nav li{
+        display: inline;
+        margin:0 0 0 15px;
+
+    }
+
+    nav a {
+        text-transform: uppercase;
+        colo: #000000fb;
+        font-weight: bold;
+        font-size: 25px;
+        text-decoration: cyan;
+    }
+
+    nav a:hover{
+        color:aquamarine;
+        font-size: 30px;
+
+    }
